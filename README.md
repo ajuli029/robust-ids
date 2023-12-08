@@ -21,7 +21,7 @@ The primary purpose of this project is to:
 
 To use the merged intrusion detection system, follow these installation steps:
 
-1. **Prerequisites**: PyChar (Preferred) and some libraries like pandas, numpy, matplotlib, scikit-learn and keras which will be shown how to download during the
+1. **Prerequisites**: PyChar (Preferred) and some libraries like pandas, numpy, matplotlib, h5py, joblib, scikit-learn and keras which will be shown how to download during the
    installation process.
 
 Setup Instructions
@@ -36,7 +36,7 @@ Ensure you have the required dependencies installed. You can use pip to install 
 
 bash
 Copy code
-pip install pandas numpy matplotlib scikit-learn keras
+pip install pandas numpy matplotlib scikit-learn keras joblib h5py
 2. Download the Trained Models
 Download the pre-trained models (dnn3layer_model.hdf5 and test_model.hdf5) and place them in the kddresults/ directory of your local repository. You can get the models from the respective sources:
 
