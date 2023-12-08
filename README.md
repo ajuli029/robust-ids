@@ -30,7 +30,7 @@ To run the "Merging Two Intrusion Detection Systems" project and evaluate the ac
 
 bash
 Copy code
-git clone https://github.com/your-username/merging-intrusion-detection.git](https://github.com/ajuli029/robust-ids.git)
+git clone https://github.com/ajuli029/robust-ids.git
 1. Install Dependencies
 Ensure you have the required dependencies installed. You can use pip to install them:
 
