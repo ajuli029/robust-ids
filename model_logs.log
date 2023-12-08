@@ -1,0 +1,342 @@
+INFO:root:Loading data...
+INFO:root:Normalizing data for Random Forest...
+INFO:root:Normalizing data for Decision Tree...
+INFO:root:Normalizing data for Gradient Boosting...
+INFO:root:Creating Random Forest model...
+INFO:root:Results for Random Forest:
+INFO:root:Accuracy (RF): 0.9267753167711049
+INFO:root:Recall (RF): 0.9102165822805028
+INFO:root:Precision (RF): 0.9987294132079688
+INFO:root:F1 Score (RF): 0.9524209435590179
+INFO:root:Creating Decision Tree model...
+INFO:root:Results for Decision Tree:
+INFO:root:Accuracy (DT): 0.9299229332313064
+INFO:root:Recall (DT): 0.914213611461611
+INFO:root:Precision (DT): 0.9986391234559285
+INFO:root:F1 Score (DT): 0.9545632687096102
+INFO:root:Creating Gradient Boosting model...
+INFO:root:Results for Gradient Boosting:
+INFO:root:Accuracy (GB): 0.9279327651119349
+INFO:root:Recall (GB): 0.9117299429794439
+INFO:root:Precision (GB): 0.9986485245299358
+INFO:root:F1 Score (GB): 0.9532119188018577
+INFO:root:Results for Majority Rule Vote:
+INFO:root:Accuracy (Majority): 0.9275180127898042
+INFO:root:Recall (Majority): 0.9111589388107141
+INFO:root:Precision (Majority): 0.998708869845327
+INFO:root:F1 Score (Majority): 0.952927223449526
+INFO:root:Loading data...
+INFO:root:Normalizing data for Random Forest...
+INFO:root:Normalizing data for Decision Tree...
+INFO:root:Normalizing data for Gradient Boosting...
+INFO:root:Creating Random Forest model...
+INFO:root:Results for Random Forest:
+INFO:root:Accuracy (RF): 0.9267753167711049
+INFO:root:Recall (RF): 0.9102165822805028
+INFO:root:Precision (RF): 0.9987294132079688
+INFO:root:F1 Score (RF): 0.9524209435590179
+INFO:root:Creating Decision Tree model...
+INFO:root:Results for Decision Tree:
+INFO:root:Accuracy (DT): 0.9299229332313064
+INFO:root:Recall (DT): 0.914213611461611
+INFO:root:Precision (DT): 0.9986391234559285
+INFO:root:F1 Score (DT): 0.9545632687096102
+INFO:root:Creating Gradient Boosting model...
+INFO:root:Results for Gradient Boosting:
+INFO:root:Accuracy (GB): 0.9279327651119349
+INFO:root:Recall (GB): 0.9117299429794439
+INFO:root:Precision (GB): 0.9986485245299358
+INFO:root:F1 Score (GB): 0.9532119188018577
+INFO:root:Results for Majority Rule Vote:
+INFO:root:Accuracy (Majority): 0.9275180127898042
+INFO:root:Recall (Majority): 0.9111589388107141
+INFO:root:Precision (Majority): 0.998708869845327
+INFO:root:F1 Score (Majority): 0.952927223449526
+INFO:root:Loading data...
+INFO:root:Normalizing data for Random Forest...
+INFO:root:Normalizing data for Decision Tree...
+INFO:root:Normalizing data for Gradient Boosting...
+INFO:root:Creating Random Forest model...
+INFO:root:Results for Random Forest:
+INFO:root:Accuracy (RF): 0.9267753167711049
+INFO:root:Recall (RF): 0.9102165822805028
+INFO:root:Precision (RF): 0.9987294132079688
+INFO:root:F1 Score (RF): 0.9524209435590179
+INFO:root:Creating Decision Tree model...
+INFO:root:Results for Decision Tree:
+INFO:root:Accuracy (DT): 0.9299229332313064
+INFO:root:Recall (DT): 0.914213611461611
+INFO:root:Precision (DT): 0.9986391234559285
+INFO:root:F1 Score (DT): 0.9545632687096102
+INFO:root:Creating Gradient Boosting model...
+INFO:root:Results for Gradient Boosting:
+INFO:root:Accuracy (GB): 0.9279327651119349
+INFO:root:Recall (GB): 0.9117299429794439
+INFO:root:Precision (GB): 0.9986485245299358
+INFO:root:F1 Score (GB): 0.9532119188018577
+INFO:root:Results for Majority Rule Vote:
+INFO:root:Accuracy (Majority): 0.9275180127898042
+INFO:root:Recall (Majority): 0.9111589388107141
+INFO:root:Precision (Majority): 0.998708869845327
+INFO:root:F1 Score (Majority): 0.952927223449526
+INFO:root:Loading data...
+INFO:root:Normalizing data for Random Forest...
+INFO:root:Normalizing data for Decision Tree...
+INFO:root:Normalizing data for Gradient Boosting...
+INFO:root:Creating Random Forest model...
+INFO:root:Results for Random Forest:
+INFO:root:Accuracy (RF): 0.9267753167711049
+INFO:root:Recall (RF): 0.9102165822805028
+INFO:root:Precision (RF): 0.9987294132079688
+INFO:root:F1 Score (RF): 0.9524209435590179
+INFO:root:Creating Decision Tree model...
+INFO:root:Results for Decision Tree:
+INFO:root:Accuracy (DT): 0.9299229332313064
+INFO:root:Recall (DT): 0.914213611461611
+INFO:root:Precision (DT): 0.9986391234559285
+INFO:root:F1 Score (DT): 0.9545632687096102
+INFO:root:Creating Gradient Boosting model...
+INFO:root:Results for Gradient Boosting:
+INFO:root:Accuracy (GB): 0.9279327651119349
+INFO:root:Recall (GB): 0.9117299429794439
+INFO:root:Precision (GB): 0.9986485245299358
+INFO:root:F1 Score (GB): 0.9532119188018577
+INFO:root:Results for Majority Rule Vote:
+INFO:root:Accuracy (Majority): 0.9275180127898042
+INFO:root:Recall (Majority): 0.9111589388107141
+INFO:root:Precision (Majority): 0.998708869845327
+INFO:root:F1 Score (Majority): 0.952927223449526
+INFO:root:Loading data...
+INFO:root:Normalizing data for Random Forest...
+INFO:root:Normalizing data for Decision Tree...
+INFO:root:Normalizing data for Gradient Boosting...
+INFO:root:Creating Random Forest model...
+INFO:root:Results for Random Forest:
+INFO:root:Accuracy (RF): 0.9267753167711049
+INFO:root:Recall (RF): 0.9102165822805028
+INFO:root:Precision (RF): 0.9987294132079688
+INFO:root:F1 Score (RF): 0.9524209435590179
+INFO:root:Creating Decision Tree model...
+INFO:root:Results for Decision Tree:
+INFO:root:Accuracy (DT): 0.9299229332313064
+INFO:root:Recall (DT): 0.914213611461611
+INFO:root:Precision (DT): 0.9986391234559285
+INFO:root:F1 Score (DT): 0.9545632687096102
+INFO:root:Creating Gradient Boosting model...
+INFO:root:Results for Gradient Boosting:
+INFO:root:Accuracy (GB): 0.9279327651119349
+INFO:root:Recall (GB): 0.9117299429794439
+INFO:root:Precision (GB): 0.9986485245299358
+INFO:root:F1 Score (GB): 0.9532119188018577
+INFO:root:Results for Majority Rule Vote:
+INFO:root:Accuracy (Majority): 0.9275180127898042
+INFO:root:Recall (Majority): 0.9111589388107141
+INFO:root:Precision (Majority): 0.998708869845327
+INFO:root:F1 Score (Majority): 0.952927223449526
+INFO:root:Loading data...
+INFO:root:Normalizing data for Random Forest...
+INFO:root:Normalizing data for Decision Tree...
+INFO:root:Normalizing data for Gradient Boosting...
+INFO:root:Creating Random Forest model...
+INFO:root:Results for Random Forest:
+INFO:root:Accuracy (RF): 0.9267753167711049
+INFO:root:Recall (RF): 0.9102165822805028
+INFO:root:Precision (RF): 0.9987294132079688
+INFO:root:F1 Score (RF): 0.9524209435590179
+INFO:root:Creating Decision Tree model...
+INFO:root:Results for Decision Tree:
+INFO:root:Accuracy (DT): 0.9299229332313064
+INFO:root:Recall (DT): 0.914213611461611
+INFO:root:Precision (DT): 0.9986391234559285
+INFO:root:F1 Score (DT): 0.9545632687096102
+INFO:root:Creating Gradient Boosting model...
+INFO:root:Results for Gradient Boosting:
+INFO:root:Accuracy (GB): 0.9279327651119349
+INFO:root:Recall (GB): 0.9117299429794439
+INFO:root:Precision (GB): 0.9986485245299358
+INFO:root:F1 Score (GB): 0.9532119188018577
+INFO:root:Results for Majority Rule Vote:
+INFO:root:Accuracy (Majority): 0.9275180127898042
+INFO:root:Recall (Majority): 0.9111589388107141
+INFO:root:Precision (Majority): 0.998708869845327
+INFO:root:F1 Score (Majority): 0.952927223449526
+INFO:root:Loading data...
+INFO:root:Normalizing data...
+INFO:root:Creating Neural Network model...
+INFO:root:Results for Neural Network:
+INFO:root:Accuracy (NN): 0.9219526153509802
+INFO:root:Recall (NN): 0.9070740628344168
+INFO:root:Precision (NN): 0.9956040969991279
+INFO:root:F1 Score (NN): 0.9492794654442199
+INFO:root:Creating SVM model...
+INFO:root:Results for SVM:
+INFO:root:Accuracy (SVM): 0.810782917348543
+INFO:root:Recall (SVM): 0.7709075372550273
+INFO:root:Precision (SVM): 0.9923975285542453
+INFO:root:F1 Score (SVM): 0.8677417759979145
+INFO:root:Creating AdaBoost model...
+INFO:root:Loading data...
+INFO:root:Normalizing data...
+INFO:root:Creating Neural Network model...
+INFO:root:Results for Neural Network:
+INFO:root:Accuracy (NN): 0.9221583839449055
+INFO:root:Recall (NN): 0.9073895126898689
+INFO:root:Precision (NN): 0.9955401930246516
+INFO:root:F1 Score (NN): 0.94942312151528
+INFO:root:Creating SVM model...
+INFO:root:Results for SVM:
+INFO:root:Accuracy (SVM): 0.810782917348543
+INFO:root:Recall (SVM): 0.7709075372550273
+INFO:root:Precision (SVM): 0.9923975285542453
+INFO:root:F1 Score (SVM): 0.8677417759979145
+INFO:root:Creating AdaBoost model...
+INFO:root:Results for AdaBoost:
+INFO:root:Accuracy (AdaBoost): 0.9241292612585965
+INFO:root:Recall (AdaBoost): 0.9103363733648517
+INFO:root:Precision (AdaBoost): 0.995011434856235
+INFO:root:F1 Score (AdaBoost): 0.9507923930269413
+INFO:root:Loading data...
+INFO:root:Normalizing data...
+INFO:root:Creating Neural Network model...
+INFO:root:Results for Neural Network:
+INFO:root:Accuracy (NN): 0.9217789980998556
+INFO:root:Recall (NN): 0.906934306569343
+INFO:root:Precision (NN): 0.9955205105390728
+INFO:root:F1 Score (NN): 0.9491649376184477
+INFO:root:Creating SVM model...
+INFO:root:Results for SVM:
+INFO:root:Accuracy (SVM): 0.810782917348543
+INFO:root:Recall (SVM): 0.7709075372550273
+INFO:root:Precision (SVM): 0.9923975285542453
+INFO:root:F1 Score (SVM): 0.8677417759979145
+INFO:root:Creating AdaBoost model...
+INFO:root:Results for AdaBoost:
+INFO:root:Accuracy (AdaBoost): 0.9241292612585965
+INFO:root:Recall (AdaBoost): 0.9103363733648517
+INFO:root:Precision (AdaBoost): 0.995011434856235
+INFO:root:F1 Score (AdaBoost): 0.9507923930269413
+INFO:root:Loading data...
+INFO:root:Normalizing data...
+INFO:root:Creating Neural Network model...
+INFO:root:Results for Neural Network:
+INFO:root:Accuracy (NN): 0.9225795665355964
+INFO:root:Recall (NN): 0.9079645098947435
+INFO:root:Precision (NN): 0.9954863452092216
+INFO:root:F1 Score (NN): 0.9497132737744698
+INFO:root:Creating SVM model...
+INFO:root:Results for SVM:
+INFO:root:Accuracy (SVM): 0.810782917348543
+INFO:root:Recall (SVM): 0.7709075372550273
+INFO:root:Precision (SVM): 0.9923975285542453
+INFO:root:F1 Score (SVM): 0.8677417759979145
+INFO:root:Creating AdaBoost model...
+INFO:root:Results for AdaBoost:
+INFO:root:Accuracy (AdaBoost): 0.9241292612585965
+INFO:root:Recall (AdaBoost): 0.9103363733648517
+INFO:root:Precision (AdaBoost): 0.995011434856235
+INFO:root:F1 Score (AdaBoost): 0.9507923930269413
+INFO:root:Results for Majority Rule Vote:
+INFO:root:Accuracy (Majority): 0.9215217873574489
+INFO:root:Recall (Majority): 0.906838473701864
+INFO:root:Precision (Majority): 0.9952757216795292
+INFO:root:F1 Score (Majority): 0.94900118883705
+INFO:root:Loading data...
+INFO:root:Normalizing data...
+INFO:root:Creating Neural Network model...
+INFO:root:Results for Neural Network:
+INFO:root:Accuracy (NN): 0.8511489282349878
+INFO:root:Recall (NN): 0.8195027871392292
+INFO:root:Precision (NN): 0.994697737087245
+INFO:root:F1 Score (NN): 0.8986410895803731
+INFO:root:Creating SVM model...
+INFO:root:Results for SVM:
+INFO:root:Accuracy (SVM): 0.810782917348543
+INFO:root:Recall (SVM): 0.7709075372550273
+INFO:root:Precision (SVM): 0.9923975285542453
+INFO:root:F1 Score (SVM): 0.8677417759979145
+INFO:root:Creating AdaBoost model...
+INFO:root:Results for AdaBoost:
+INFO:root:Accuracy (AdaBoost): 0.9241292612585965
+INFO:root:Recall (AdaBoost): 0.9103363733648517
+INFO:root:Precision (AdaBoost): 0.995011434856235
+INFO:root:F1 Score (AdaBoost): 0.9507923930269413
+INFO:root:Results for Weighted Majority Rule Vote:
+INFO:root:Accuracy (Weighted Majority): 0.8511424979664276
+INFO:root:Recall (Weighted Majority): 0.8199579932597549
+INFO:root:Precision (Weighted Majority): 0.9941420527989853
+INFO:root:F1 Score (Weighted Majority): 0.8986877260702024
+INFO:root:Loading data...
+INFO:root:Normalizing data...
+INFO:root:Creating Neural Network model...
+INFO:root:Results for Neural Network:
+INFO:root:Accuracy (NN): 0.8929167376675486
+INFO:root:Recall (NN): 0.8712605216502419
+INFO:root:Precision (NN): 0.9951427528961051
+INFO:root:F1 Score (NN): 0.9290903052186946
+INFO:root:Creating SVM model...
+INFO:root:Results for SVM:
+INFO:root:Accuracy (SVM): 0.810782917348543
+INFO:root:Recall (SVM): 0.7709075372550273
+INFO:root:Precision (SVM): 0.9923975285542453
+INFO:root:F1 Score (SVM): 0.8677417759979145
+INFO:root:Creating AdaBoost model...
+INFO:root:Results for AdaBoost:
+INFO:root:Accuracy (AdaBoost): 0.9241292612585965
+INFO:root:Recall (AdaBoost): 0.9103363733648517
+INFO:root:Precision (AdaBoost): 0.995011434856235
+INFO:root:F1 Score (AdaBoost): 0.9507923930269413
+INFO:root:Results for Weighted Majority Rule Vote:
+INFO:root:Accuracy (Weighted Majority): 0.9246661886833704
+INFO:root:Recall (Weighted Majority): 0.9110870641601048
+INFO:root:Precision (Weighted Majority): 0.9949244112273419
+INFO:root:F1 Score (Weighted Majority): 0.9511619133374604
+INFO:root:Loading data...
+INFO:root:Normalizing data...
+INFO:root:Creating Neural Network model...
+INFO:root:Results for Neural Network:
+INFO:root:Accuracy (NN): 0.9207244340559884
+INFO:root:Recall (NN): 0.9056485489306649
+INFO:root:Precision (NN): 0.9954879627800821
+INFO:root:F1 Score (NN): 0.9484455465625138
+INFO:root:Creating SVM model...
+INFO:root:Results for SVM:
+INFO:root:Accuracy (SVM): 0.810782917348543
+INFO:root:Recall (SVM): 0.7709075372550273
+INFO:root:Precision (SVM): 0.9923975285542453
+INFO:root:F1 Score (SVM): 0.8677417759979145
+INFO:root:Creating AdaBoost model...
+INFO:root:Results for AdaBoost:
+INFO:root:Accuracy (AdaBoost): 0.9241292612585965
+INFO:root:Recall (AdaBoost): 0.9103363733648517
+INFO:root:Precision (AdaBoost): 0.995011434856235
+INFO:root:F1 Score (AdaBoost): 0.9507923930269413
+INFO:root:Results for Weighted Majority Rule Vote:
+INFO:root:Accuracy (Weighted Majority): 0.9247465670403724
+INFO:root:Recall (Weighted Majority): 0.9111828970275839
+INFO:root:Precision (Weighted Majority): 0.9949292802455572
+INFO:root:F1 Score (Weighted Majority): 0.9512163604228498
+INFO:root:Loading data...
+INFO:root:Normalizing data...
+INFO:root:Creating Neural Network model...
+INFO:root:Results for Neural Network:
+INFO:root:Accuracy (NN): 0.9215989505801709
+INFO:root:Recall (NN): 0.9070261464006772
+INFO:root:Precision (NN): 0.9951764051293959
+INFO:root:F1 Score (NN): 0.9490587834690164
+INFO:root:Creating SVM model...
+INFO:root:Results for SVM:
+INFO:root:Accuracy (SVM): 0.810782917348543
+INFO:root:Recall (SVM): 0.7709075372550273
+INFO:root:Precision (SVM): 0.9923975285542453
+INFO:root:F1 Score (SVM): 0.8677417759979145
+INFO:root:Creating AdaBoost model...
+INFO:root:Results for AdaBoost:
+INFO:root:Accuracy (AdaBoost): 0.9241292612585965
+INFO:root:Recall (AdaBoost): 0.9103363733648517
+INFO:root:Precision (AdaBoost): 0.995011434856235
+INFO:root:F1 Score (AdaBoost): 0.9507923930269413
+INFO:root:Results for Weighted Majority Rule Vote:
+INFO:root:Accuracy (Weighted Majority): 0.9247208459661318
+INFO:root:Recall (Weighted Majority): 0.9111469597022792
+INFO:root:Precision (Weighted Majority): 0.9949334193750926
+INFO:root:F1 Score (Weighted Majority): 0.9511986693956838
